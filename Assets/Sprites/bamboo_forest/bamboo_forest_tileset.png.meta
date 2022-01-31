@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: ec1a9a0c77d5988479e5f62a97b53a07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7256892619996580677
+    second: bamboo_forest_tileset_0
+  - first:
+      213: -7806148813758766389
+    second: bamboo_forest_tileset_1
+  - first:
+      213: -4446090109322456920
+    second: bamboo_forest_tileset_2
+  - first:
+      213: -9011717948241908008
+    second: bamboo_forest_tileset_3
+  - first:
+      213: 1846083122840462108
+    second: bamboo_forest_tileset_4
+  - first:
+      213: 8267413524743860324
+    second: bamboo_forest_tileset_5
+  - first:
+      213: -8937759096259266920
+    second: bamboo_forest_tileset_6
+  - first:
+      213: 1516045357843166144
+    second: bamboo_forest_tileset_7
+  - first:
+      213: 3353215068446780253
+    second: bamboo_forest_tileset_8
+  - first:
+      213: -1309979998704847551
+    second: bamboo_forest_tileset_9
+  - first:
+      213: -7182779718254557373
+    second: bamboo_forest_tileset_10
+  - first:
+      213: 8788839049465416997
+    second: bamboo_forest_tileset_11
+  - first:
+      213: -5579845277003190396
+    second: bamboo_forest_tileset_12
+  - first:
+      213: -781203068361379667
+    second: bamboo_forest_tileset_13
+  - first:
+      213: -3131608635111829451
+    second: bamboo_forest_tileset_14
+  - first:
+      213: -3173977427854476709
+    second: bamboo_forest_tileset_15
+  - first:
+      213: 2812382236906166441
+    second: bamboo_forest_tileset_16
+  - first:
+      213: 5200199230516790935
+    second: bamboo_forest_tileset_17
+  - first:
+      213: 2931222808427550863
+    second: bamboo_forest_tileset_18
+  - first:
+      213: -1492439040202759618
+    second: bamboo_forest_tileset_19
+  - first:
+      213: 4303158165345067134
+    second: bamboo_forest_tileset_20
+  - first:
+      213: -6290681196523623603
+    second: bamboo_forest_tileset_21
+  - first:
+      213: -4875313357159635741
+    second: bamboo_forest_tileset_22
+  - first:
+      213: -7226151090384236349
+    second: bamboo_forest_tileset_23
+  - first:
+      213: 8073676739930881021
+    second: bamboo_forest_tileset_24
+  - first:
+      213: 1944164404992594623
+    second: bamboo_forest_tileset_25
+  - first:
+      213: 7581458783170916985
+    second: bamboo_forest_tileset_26
+  - first:
+      213: 4710678440628374182
+    second: bamboo_forest_tileset_27
+  - first:
+      213: -3266425645603175172
+    second: bamboo_forest_tileset_28
+  - first:
+      213: 8829615717329479906
+    second: bamboo_forest_tileset_29
+  - first:
+      213: -6017915493048364510
+    second: bamboo_forest_tileset_30
+  - first:
+      213: 6223911300286937842
+    second: bamboo_forest_tileset_31
+  - first:
+      213: 2135688478541362983
+    second: bamboo_forest_tileset_32
+  - first:
+      213: -2388271647060910527
+    second: bamboo_forest_tileset_33
+  - first:
+      213: 7914106177458361119
+    second: bamboo_forest_tileset_34
+  - first:
+      213: -7821561252870085948
+    second: bamboo_forest_tileset_35
+  - first:
+      213: -2769713890523528733
+    second: bamboo_forest_tileset_36
+  - first:
+      213: 232166533884296025
+    second: bamboo_forest_tileset_37
+  - first:
+      213: -6672714881844492172
+    second: bamboo_forest_tileset_38
+  - first:
+      213: 4551517937733547428
+    second: bamboo_forest_tileset_39
+  - first:
+      213: 4911772350592078326
+    second: bamboo_forest_tileset_0
+  - first:
+      213: 716512116304322890
+    second: bamboo_forest_tileset_1
+  - first:
+      213: -8830791531421673734
+    second: bamboo_forest_tileset_2
+  - first:
+      213: -9150059154645153379
+    second: bamboo_forest_tileset_3
+  - first:
+      213: -4293327339553900579
+    second: bamboo_forest_tileset_4
+  - first:
+      213: 7804657657800159509
+    second: bamboo_forest_tileset_5
+  - first:
+      213: 3498595641424421337
+    second: bamboo_forest_tileset_6
+  - first:
+      213: 7811295453533860048
+    second: bamboo_forest_tileset_7
+  - first:
+      213: -5351535805889367940
+    second: bamboo_forest_tileset_8
+  - first:
+      213: 9182525992251013444
+    second: bamboo_forest_tileset_9
+  - first:
+      213: -5385602295290544694
+    second: bamboo_forest_tileset_10
+  - first:
+      213: -5646122804973700309
+    second: bamboo_forest_tileset_11
+  - first:
+      213: 1968339319701989906
+    second: bamboo_forest_tileset_12
+  - first:
+      213: -8204188044799663501
+    second: bamboo_forest_tileset_13
+  - first:
+      213: -4669224031258525761
+    second: bamboo_forest_tileset_14
+  - first:
+      213: -7698204875213057567
+    second: bamboo_forest_tileset_15
+  - first:
+      213: -2567917901869970867
+    second: bamboo_forest_tileset_16
+  - first:
+      213: -8340962582386463626
+    second: bamboo_forest_tileset_17
+  - first:
+      213: 424139964132732152
+    second: bamboo_forest_tileset_18
+  - first:
+      213: 9025646743659916403
+    second: bamboo_forest_tileset_19
+  - first:
+      213: -5160358471286823208
+    second: bamboo_forest_tileset_20
+  - first:
+      213: 4546287103352843502
+    second: bamboo_forest_tileset_21
+  - first:
+      213: -1145821289858762109
+    second: bamboo_forest_tileset_22
+  - first:
+      213: 8592013795729720605
+    second: bamboo_forest_tileset_23
+  - first:
+      213: 5898383591198783055
+    second: bamboo_forest_tileset_24
+  - first:
+      213: -6795206928368655080
+    second: bamboo_forest_tileset_25
+  - first:
+      213: 1191438612005549029
+    second: bamboo_forest_tileset_26
+  - first:
+      213: -1675885833703131624
+    second: bamboo_forest_tileset_27
+  - first:
+      213: 2299852335629415670
+    second: bamboo_forest_tileset_28
+  - first:
+      213: -2294256728014102688
+    second: bamboo_forest_tileset_29
+  - first:
+      213: 7424555756395153145
+    second: bamboo_forest_tileset_30
+  - first:
+      213: 6864176345286124888
+    second: bamboo_forest_tileset_31
+  - first:
+      213: -757119744731632156
+    second: bamboo_forest_tileset_32
+  - first:
+      213: -1574516174114742944
+    second: bamboo_forest_tileset_33
+  - first:
+      213: 4365448987060065212
+    second: bamboo_forest_tileset_34
+  - first:
+      213: -2058251436487968208
+    second: bamboo_forest_tileset_35
+  - first:
+      213: 4900440461109578236
+    second: bamboo_forest_tileset_36
+  - first:
+      213: 7375366103891362227
+    second: bamboo_forest_tileset_37
+  - first:
+      213: 7841918923181123412
+    second: bamboo_forest_tileset_38
+  - first:
+      213: 3493513350857125584
+    second: bamboo_forest_tileset_39
+  - first:
+      213: 2166212598328259523
+    second: bamboo_forest_tileset_40
+  - first:
+      213: -877924552247641633
+    second: bamboo_forest_tileset_41
+  - first:
+      213: 4107842790865954573
+    second: bamboo_forest_tileset_42
+  - first:
+      213: 7272247015181554383
+    second: bamboo_forest_tileset_43
+  - first:
+      213: -3046795413905587609
+    second: bamboo_forest_tileset_44
+  - first:
+      213: 193058093260107831
+    second: bamboo_forest_tileset_45
+  - first:
+      213: 1844813976874934605
+    second: bamboo_forest_tileset_46
+  - first:
+      213: -5106454908268081023
+    second: bamboo_forest_tileset_47
+  - first:
+      213: -4884346481758110461
+    second: bamboo_forest_tileset_48
+  - first:
+      213: 3447567879453339679
+    second: bamboo_forest_tileset_49
+  - first:
+      213: 8262106863739090381
+    second: bamboo_forest_tileset_50
+  - first:
+      213: 7521895362917886645
+    second: bamboo_forest_tileset_51
+  - first:
+      213: -4157865888596982583
+    second: bamboo_forest_tileset_52
+  - first:
+      213: -4887711571648247180
+    second: bamboo_forest_tileset_53
+  - first:
+      213: -8197827284656569260
+    second: bamboo_forest_tileset_54
+  - first:
+      213: -1872726868661180742
+    second: bamboo_forest_tileset_55
+  - first:
+      213: 8371192823736002634
+    second: bamboo_forest_tileset_56
+  - first:
+      213: -5745831505159317486
+    second: bamboo_forest_tileset_57
+  - first:
+      213: 3456123230949601190
+    second: bamboo_forest_tileset_58
+  - first:
+      213: -1688849023172169127
+    second: bamboo_forest_tileset_59
+  - first:
+      213: -7695354324149658239
+    second: bamboo_forest_tileset_60
+  - first:
+      213: 7134091030949037497
+    second: bamboo_forest_tileset_61
+  - first:
+      213: 857071743393041529
+    second: bamboo_forest_tileset_62
+  - first:
+      213: 4617660016811092427
+    second: bamboo_forest_tileset_63
+  - first:
+      213: 1587246476977051246
+    second: bamboo_forest_tileset_64
+  - first:
+      213: -8002675805410823269
+    second: bamboo_forest_tileset_65
+  - first:
+      213: 4926358966298184465
+    second: bamboo_forest_tileset_66
+  - first:
+      213: -6323959075864608808
+    second: bamboo_forest_tileset_67
+  - first:
+      213: 4622086679783087304
+    second: bamboo_forest_tileset_68
+  - first:
+      213: 215623013705259510
+    second: bamboo_forest_tileset_69
+  - first:
+      213: 9077811529559019737
+    second: bamboo_forest_tileset_70
+  - first:
+      213: 5434416611444542264
+    second: bamboo_forest_tileset_71
+  - first:
+      213: -4363427771499598254
+    second: bamboo_forest_tileset_72
+  - first:
+      213: 6654005327764632136
+    second: bamboo_forest_tileset_73
+  - first:
+      213: 5808603810595293488
+    second: bamboo_forest_tileset_74
+  - first:
+      213: 5757091315195898599
+    second: bamboo_forest_tileset_75
+  - first:
+      213: 478661288192000888
+    second: bamboo_forest_tileset_76
+  - first:
+      213: -8575577292733473608
+    second: bamboo_forest_tileset_77
+  - first:
+      213: 381859287713224692
+    second: bamboo_forest_tileset_78
+  - first:
+      213: -8761026617135995387
+    second: bamboo_forest_tileset_79
+  - first:
+      213: 3448844852398387226
+    second: bamboo_forest_tileset_80
+  - first:
+      213: -638340268974197369
+    second: bamboo_forest_tileset_81
+  - first:
+      213: -1209897764578507864
+    second: bamboo_forest_tileset_82
+  - first:
+      213: 6611780629348644906
+    second: bamboo_forest_tileset_83
+  - first:
+      213: 166874329966501434
+    second: bamboo_forest_tileset_84
+  - first:
+      213: -2676550631788428169
+    second: bamboo_forest_tileset_85
+  - first:
+      213: -2102492620028446059
+    second: bamboo_forest_tileset_86
+  - first:
+      213: 1606703295843555190
+    second: bamboo_forest_tileset_87
+  - first:
+      213: -3359060755889794257
+    second: bamboo_forest_tileset_88
+  - first:
+      213: 7571583797263645000
+    second: bamboo_forest_tileset_89
+  - first:
+      213: 7888374483123307373
+    second: bamboo_forest_tileset_90
+  - first:
+      213: -1769402041422318399
+    second: bamboo_forest_tileset_91
+  - first:
+      213: 5087437349254860608
+    second: bamboo_forest_tileset_92
+  - first:
+      213: 8078123820391989686
+    second: bamboo_forest_tileset_93
+  - first:
+      213: -6708886879636259479
+    second: bamboo_forest_tileset_94
+  - first:
+      213: 1071478035138097178
+    second: bamboo_forest_tileset_95
+  - first:
+      213: 7908184332760442993
+    second: bamboo_forest_tileset_96
+  - first:
+      213: 5981986731314528089
+    second: bamboo_forest_tileset_97
+  - first:
+      213: -5753323161212136350
+    second: bamboo_forest_tileset_98
+  - first:
+      213: 817328238833827663
+    second: bamboo_forest_tileset_99
+  - first:
+      213: 7288529786829040211
+    second: bamboo_forest_tileset_100
+  - first:
+      213: 2894525848967727917
+    second: bamboo_forest_tileset_101
+  - first:
+      213: -8624504884850596452
+    second: bamboo_forest_tileset_102
+  - first:
+      213: 4374236208567936238
+    second: bamboo_forest_tileset_103
+  - first:
+      213: 4148961713330535668
+    second: bamboo_forest_tileset_104
+  - first:
+      213: 7498975245636700301
+    second: bamboo_forest_tileset_105
+  - first:
+      213: 7688163246851837471
+    second: bamboo_forest_tileset_106
+  - first:
+      213: -441608150465296137
+    second: bamboo_forest_tileset_107
+  - first:
+      213: 2640575808460009132
+    second: bamboo_forest_tileset_108
+  - first:
+      213: -1830991212480789844
+    second: bamboo_forest_tileset_109
+  - first:
+      213: -8179916626246093411
+    second: bamboo_forest_tileset_110
+  - first:
+      213: -7154102426570182990
+    second: bamboo_forest_tileset_111
+  - first:
+      213: 5585460194982585551
+    second: bamboo_forest_tileset_112
+  - first:
+      213: -1474877971840179277
+    second: bamboo_forest_tileset_113
+  - first:
+      213: 1301771825406347201
+    second: bamboo_forest_tileset_114
+  - first:
+      213: 5536059678905885670
+    second: bamboo_forest_tileset_115
+  - first:
+      213: -8888088284277202762
+    second: bamboo_forest_tileset_116
+  - first:
+      213: -7681601333695234458
+    second: bamboo_forest_tileset_117
+  - first:
+      213: -8716164562056148055
+    second: bamboo_forest_tileset_118
+  - first:
+      213: -2602673670271661894
+    second: bamboo_forest_tileset_119
+  - first:
+      213: -3561534659750393314
+    second: bamboo_forest_tileset_120
+  - first:
+      213: 2325173792486422171
+    second: bamboo_forest_tileset_121
+  - first:
+      213: -4914226395060439271
+    second: bamboo_forest_tileset_122
+  - first:
+      213: 180417996902024910
+    second: bamboo_forest_tileset_123
+  - first:
+      213: 1489060530425488395
+    second: bamboo_forest_tileset_124
+  - first:
+      213: -4934815433461813029
+    second: bamboo_forest_tileset_125
+  - first:
+      213: 1549409912645371607
+    second: bamboo_forest_tileset_126
+  - first:
+      213: 4537027005176168726
+    second: bamboo_forest_tileset_127
+  - first:
+      213: -6902591511971677430
+    second: bamboo_forest_tileset_128
+  - first:
+      213: -1617689184096002093
+    second: bamboo_forest_tileset_129
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f150aeddee1a2440800000000000000
+      internalID: 4911772350592078326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41259939ff81f900800000000000000
+      internalID: 716512116304322890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af65514c3e9b27580800000000000000
+      internalID: -8830791531421673734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99809d8da5740180800000000000000
+      internalID: -9150059154645153379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ba6d18890b64c0800000000000000
+      internalID: -4293327339553900579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511f5b6f9c6bf4c60800000000000000
+      internalID: 7804657657800159509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d125d313328d8030800000000000000
+      internalID: 3498595641424421337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0728734db476c60800000000000000
+      internalID: 7811295453533860048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c703e27c9868bb5b0800000000000000
+      internalID: -5351535805889367940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449b9e42db2ee6f70800000000000000
+      internalID: 9182525992251013444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdbdaf1f3f7245b0800000000000000
+      internalID: -5385602295290544694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b7f4b2931f4a1b0800000000000000
+      internalID: -5646122804973700309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a654cbe22f05b10800000000000000
+      internalID: 1968339319701989906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372a53fd07ed42e80800000000000000
+      internalID: -8204188044799663501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3e107b75933fb0800000000000000
+      internalID: -4669224031258525761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1debce37b7a2590800000000000000
+      internalID: -7698204875213057567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a8cae064cec5cd0800000000000000
+      internalID: -2567917901869970867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ca70049b2fe3c80800000000000000
+      internalID: -8340962582386463626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcad29dc09d2e500800000000000000
+      internalID: 424139964132732152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ca208b4e9814d70800000000000000
+      internalID: 9025646743659916403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66545af49b268b0800000000000000
+      internalID: -5160358471286823208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec29428808a71f30800000000000000
+      internalID: 4546287103352843502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a73e19b993910f0800000000000000
+      internalID: -1145821289858762109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15c9b75607fc3770800000000000000
+      internalID: 8592013795729720605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46756e00a44bd150800000000000000
+      internalID: 5898383591198783055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815205b1d4392b1a0800000000000000
+      internalID: -6795206928368655080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e37648ea17d88010800000000000000
+      internalID: 1191438612005549029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816f306a6be0eb8e0800000000000000
+      internalID: -1675885833703131624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f43b0d9387baef10800000000000000
+      internalID: 2299852335629415670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f5b2f49a92920e0800000000000000
+      internalID: -2294256728014102688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6c30b9f12590760800000000000000
+      internalID: 7424555756395153145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8552b60a404724f50800000000000000
+      internalID: 6864176345286124888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed26d28a9b2e75f0800000000000000
+      internalID: -757119744731632156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d98ccb1e1362ae0800000000000000
+      internalID: -1574516174114742944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a72bd393f9f63e0800000000000000
+      internalID: -2058251436487968208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9436fb2acd10440800000000000000
+      internalID: 4900440461109578236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c6e625609a5660800000000000000
+      internalID: 7375366103891362227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ef9d56b714dc60800000000000000
+      internalID: 7841918923181123412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamboo_forest_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6ce712e37b7030800000000000000
+      internalID: 3493513350857125584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
