@@ -33,7 +33,9 @@ public class CameraController : MonoBehaviour
         //how much should the camera move in relation to target
         Vector2 amountToMove = new Vector2(transform.position.x - lastPos.x, transform.position.y - lastPos.y);
         //farBackground.position += new Vector3(amountToMove.x*0.8f, amountToMove.y*0.8f, 0f);
-        midBackground.position += new Vector3(amountToMove.x*0.3f, 0, 0f);
+        if (midBackground) {
+            midBackground.position += new Vector3(amountToMove.x*0.3f, 0, 0f);
+        }
         lastPos = transform.position;
 
         //clamp camera vertically
