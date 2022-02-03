@@ -78,11 +78,11 @@ public class PlayerInputHandler : MonoBehaviour
 
     public void OnDashInput(InputAction.CallbackContext context)
     {
-        //if (context.started)
-        //{
-        //    DashInput = true;
-        //    dashInputStartTime = Time.time;
-        //}
+        if (context.started)
+        {
+            DashInput = true;
+            dashInputStartTime = Time.time;
+        }
     }
     public void UseDashInput() => DashInput = false;
 }
