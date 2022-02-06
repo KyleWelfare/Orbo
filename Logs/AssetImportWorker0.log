@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 8155 MB
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 15720 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,148 +11,152 @@ C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Users/kyled/Desktop/Projects/Game Dev/Orbo
+C:/Users/scott/Documents/Orbo
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60067
-Successfully changed project path to: D:/Users/kyled/Desktop/Projects/Game Dev/Orbo
-D:/Users/kyled/Desktop/Projects/Game Dev/Orbo
+50560
+Successfully changed project path to: C:/Users/scott/Documents/Orbo
+C:/Users/scott/Documents/Orbo
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 99.94 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 34.91 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Users/kyled/Desktop/Projects/Game Dev/Orbo/Assets
+[Subsystems] Discovering subsystems at path C:/Users/scott/Documents/Orbo/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon (TM) R9 380 Series (ID=0x6939)
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
     Vendor:   
-    VRAM:     2023 MB
-    Driver:   27.20.14501.18003
+    VRAM:     6023 MB
+    Driver:   27.21.14.6685
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56672
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003126 seconds.
+Registered in 0.001588 seconds.
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 102.44 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 34.68 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.344 seconds
+- Completed reload, in  0.712 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001058 seconds.
+Registered in 0.000904 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 183.74 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 35.30 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.256 seconds
+- Completed reload, in  0.727 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2167 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.8 MB.
-System memory in use after: 97.9 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2619.
-Total: 2.942700 ms (FindLiveObjects: 0.259100 ms CreateObjectMapping: 0.128000 ms MarkObjects: 2.485800 ms  DeleteObjects: 0.067300 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Old Prefabs/Orb.prefab
-  artifactKey: Guid(c24653d229bf38140ba9063a120d5ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Old Prefabs/Orb.prefab using Guid(c24653d229bf38140ba9063a120d5ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf88cf10fb28d79811b3c24afffaee2b') in 0.565299 seconds
-  Import took 0.600154 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000653 seconds.
-  path: Assets/Old Prefabs/OrbProjectile 1.prefab
-  artifactKey: Guid(400f4cf66f2c17146860c0b7de00ad4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Old Prefabs/OrbProjectile 1.prefab using Guid(400f4cf66f2c17146860c0b7de00ad4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded5c5c13f2699e400bc862dfd96c5ca') in 0.253095 seconds
-  Import took 0.273319 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.256122 seconds.
-  path: Assets/Scripts/Player/Data/newPlayerData.asset
-  artifactKey: Guid(f8f2aedd16fa855429bedc86113c80bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Player/Data/newPlayerData.asset using Guid(f8f2aedd16fa855429bedc86113c80bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00716d545175659ee24d03a4aae07795') in 0.037103 seconds
-  Import took 0.053150 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.010115 seconds.
-  path: Assets/Scripts/Player/Data/newPlayerData.asset
-  artifactKey: Guid(f8f2aedd16fa855429bedc86113c80bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Player/Data/newPlayerData.asset using Guid(f8f2aedd16fa855429bedc86113c80bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00716d545175659ee24d03a4aae07795') in 0.005522 seconds
-  Import took 0.009898 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006380 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.409 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2155 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 100.5 MB.
-System memory in use after: 100.6 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2628.
-Total: 4.796400 ms (FindLiveObjects: 0.221900 ms CreateObjectMapping: 0.104400 ms MarkObjects: 4.440600 ms  DeleteObjects: 0.027900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008699 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.488 seconds
-Platform modules already initialized, skipping
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
 Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2155 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 100.7 MB.
-System memory in use after: 100.8 MB.
+Unloading 2167 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.2 MB.
+System memory in use after: 97.3 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2630.
-Total: 5.361600 ms (FindLiveObjects: 2.408200 ms CreateObjectMapping: 0.493500 ms MarkObjects: 2.436600 ms  DeleteObjects: 0.021100 ms)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2615.
+Total: 2.454600 ms (FindLiveObjects: 0.360800 ms CreateObjectMapping: 0.069100 ms MarkObjects: 1.961700 ms  DeleteObjects: 0.061800 ms)
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/Enemies/death_cloud_purple.png
+  artifactKey: Guid(621c8a754df3e3442ae6a405f5149d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Enemies/death_cloud_purple.png using Guid(621c8a754df3e3442ae6a405f5149d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e811ba91b8b8ea5d94e06990fe6ea1') in 0.100098 seconds
+  Import took 0.103614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/Enemies/green_fly_fly.png
+  artifactKey: Guid(06c2c59c538f15241b0374152a4039d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Enemies/green_fly_fly.png using Guid(06c2c59c538f15241b0374152a4039d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290586dbaa4eee436b7c8192155dea51') in 0.015757 seconds
+  Import took 0.018579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/Enemies/tortoise_walk.png
+  artifactKey: Guid(24887c491695e0a48ae153e0882b3b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Enemies/tortoise_walk.png using Guid(24887c491695e0a48ae153e0882b3b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac206a75ac173f41dd2a5559d3eade00') in 0.016896 seconds
+  Import took 0.019717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Sprites/Enemies/tortoise_orb_spawn.png
+  artifactKey: Guid(6f510629356fe104787fdf35e1185937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Enemies/tortoise_orb_spawn.png using Guid(6f510629356fe104787fdf35e1185937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca6f2c0f3132c5b5afeb8bac6bb375e5') in 0.020826 seconds
+  Import took 0.023847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.626182 seconds.
+  path: Assets/Sprites/Gameplay Demo
+  artifactKey: Guid(17f093a744d9cb94aa8d4e60ab084098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Gameplay Demo using Guid(17f093a744d9cb94aa8d4e60ab084098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24cafacf5785d9e305b4a4afba2e90ed') in 0.005278 seconds
+  Import took 0.008769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005575 seconds.
+  path: Assets/Sprites/Gameplay Demo
+  artifactKey: Guid(17f093a744d9cb94aa8d4e60ab084098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Gameplay Demo using Guid(17f093a744d9cb94aa8d4e60ab084098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24cafacf5785d9e305b4a4afba2e90ed') in 0.002014 seconds
+  Import took 0.005301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.383014 seconds.
+  path: Assets/Sprites/Gameplay Demo/Enemies
+  artifactKey: Guid(f3d78f1b38285004e85533c6558020d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Gameplay Demo/Enemies using Guid(f3d78f1b38285004e85533c6558020d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d3930b053407fc71b676310b4301bdd') in 0.005545 seconds
+  Import took 0.008974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.922494 seconds.
+  path: Assets/Sprites/Gameplay Demo/Enemies/kiwi_walk.png
+  artifactKey: Guid(0e3cc3a9ae1a91e4d88482e1c5fd198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Gameplay Demo/Enemies/kiwi_walk.png using Guid(0e3cc3a9ae1a91e4d88482e1c5fd198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c8a71e3da8d4e4a13d12d40e0e2c1e') in 0.021842 seconds
+  Import took 0.025105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.158692 seconds.
+  path: Assets/Sprites/Gameplay Demo/Enemies/kiwi_walk.png
+  artifactKey: Guid(0e3cc3a9ae1a91e4d88482e1c5fd198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Gameplay Demo/Enemies/kiwi_walk.png using Guid(0e3cc3a9ae1a91e4d88482e1c5fd198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f9b1055db992a09fc4a91104e9894a') in 0.013281 seconds
+  Import took 0.016859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.354611 seconds.
+  path: Assets/Sprites/Gameplay Demo/Enemies/kiwi_walk.png
+  artifactKey: Guid(0e3cc3a9ae1a91e4d88482e1c5fd198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Gameplay Demo/Enemies/kiwi_walk.png using Guid(0e3cc3a9ae1a91e4d88482e1c5fd198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f4a80e71450e20c931996e4c5eac2bd') in 0.009253 seconds
+  Import took 0.013036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.469096 seconds.
+  path: Assets/Sprites/Gameplay Demo/Enemies/kiwi_walk.png
+  artifactKey: Guid(0e3cc3a9ae1a91e4d88482e1c5fd198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Gameplay Demo/Enemies/kiwi_walk.png using Guid(0e3cc3a9ae1a91e4d88482e1c5fd198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b0eacb58e90d112e1b4392cca5e23c') in 0.043981 seconds
+  Import took 0.047526 seconds .
+
