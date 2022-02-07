@@ -48,7 +48,7 @@ public class OrbController : MonoBehaviour
     void OnDisable()
     {
         //playerInputs.Disable();
-        if (orbShoot.gameObject != null)
+        if (orbShoot)
         {
             orbShoot.gameObject.SetActive(false);
         }

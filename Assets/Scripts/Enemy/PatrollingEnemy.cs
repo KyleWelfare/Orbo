@@ -74,7 +74,7 @@ public class PatrollingEnemy : Enemy
         else if (waitCount > 0)
         {
             orbSpawner.SR.enabled = true;
-            anim.SetBool("isWalking", false);
+            // anim.SetBool("isWalking", false);
             waitCount -= Time.deltaTime;
             enemyRB.velocity = new Vector2(0f, enemyRB.velocity.y);
             //if (canShoot == true) { //occurs once per stop
